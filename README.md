@@ -1,4 +1,4 @@
-> React Native: Profile page.
+> Mobile profile page.
 
 ![react-native] ![expo]
 
